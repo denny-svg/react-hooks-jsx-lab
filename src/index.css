@@ -56,9 +56,19 @@ nav a:active {
 }
 
 #home {
-  background-color: cornsilk;
+  background-color: rgb(224, 181, 7);
 }
 
 #about img {
   max-height: 50%;
+}
+
+h1
+{
+ color: firebrick;
+}
+
+#about h2 
+{
+ color: blue;
 }
